@@ -21,5 +21,5 @@ LMB: interact with block \
 RMB: switch interaction mode
 
 
-https://github.com/user-attachments/assets/ab32d015-0d73-4028-ab8c-2b5761298929
+[![Demo Video]](https://github.com/user-attachments/assets/ab32d015-0d73-4028-ab8c-2b5761298929)
 
